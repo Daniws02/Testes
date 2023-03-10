@@ -1,1 +1,1 @@
-print("Quinto")
+print("Juntar")
